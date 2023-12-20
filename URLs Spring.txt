@@ -1,0 +1,32 @@
+spring sts template project pagina home chamar outra pagina
+Estudar Sping Anotatios: Scope, Component, AutoWired, etc...
+Sessao HTTp.
+http://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-spring-boot-v2.0.pdf
+
+	MUITO LEGAL: Template Acessar ApiRest OutLook para ver emails agenda e contatos com STS =>  https://docs.microsoft.com/pt-br/outlook/rest/java-tutorial
+	In addition to that you can also use the Import Spring Getting Started Content to import projects from http://spring.io/guides directly into your workspace.
+	https://spring.io/guides
+	http://blog.netgloo.com/2014/05/18/very-basic-web-application-with-spring-mvc-spring-boot-and-eclipse-sts/
+http://blog.netgloo.com/2014/
+https://javatutorial.net/spring-web-app-sts
+https://github.com/deusyvan/sisContPro <-------- VERIFICAR 
+https://www.caelum.com.br/apostila-java-web/spring-mvc-autenticacao-e-autorizacao/
+http://respostas.guj.com.br/24782-spring-mvc--usuario-da-sessao
+http://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-spring-boot-v2.0.pdf
+http://toxinavirtual.blogspot.com/2016/09/crud-com-rest-spring-boot-e-jpa.html
+http://www.rondinha.rs.leg.br/restrito/upload/legislacao/2.pdf
+
+https://spring.io/guides/gs/handling-form-submission/
+https://spring.io/guides/gs/relational-data-access/
+https://spring.io/guides/gs/validating-form-input/
+http://blog.netgloo.com/2014/
+https://spring.io/guides/gs/serving-web-content/
+http://blog.netgloo.com/2014/
+https://docs.microsoft.com/pt-br/outlook/rest/java-tutorial
+http://toxinavirtual.blogspot.com/2016/09/crud-com-rest-spring-boot-e-jpa.html
+Muito Legal tambem = > http://zetcode.com/springboot/postgresql/
+			https://o7planning.org/en/11663/spring-boot-spring-jdbc-and-spring-transaction-tutorial
+https://stackoverflow.com/questions/35407433/java-lang-illegalstateexception-neither-bindingresult-nor-plain-target-object-f
+http://www.matera.com/blog/post/otimizando-o-carregamento-de-css-e-js-em-aplicacoes-java-com-wro4j
+https://cursos.alura.com.br/forum/topico-os-arquivos-css-e-js-o-spring-44793    e esse     https://cursos.alura.com.br/forum/topico-configuracoes-iniciais-para-utilizar-o-spring-mvc-com-o-thymeleaf-39054
+https://github.com/deyvedvm/spring-mvc
