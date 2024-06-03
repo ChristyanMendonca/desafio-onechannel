@@ -1,0 +1,553 @@
+Categoria melhoria do meio ambiente.
+-----------------------------------------------------------------------------------------------
+SLIDE 1: Capa (10s)
+-----------------------------------------------------------------------------------------------
+# CAPA:
+- Boa tarde a todos, 
+ nesse momento irei iniciar a apresentação do trabalho de NHC 2024 da nossa Equipe chamada;
+ "Movidos pela arte de sonhar, criar e realizar";
+	. "Valorizando as habilidades unicas de cada integrante"
+ é com grande alegria que nós do Grupo WorkFlowers iremos iniciar a apresentação do nosso trabalho de NHC 2024
+- Workflowers;
+
+-----------------------------------------------------------------------------------------------
+SLIDE 2: Apresentação do Circulo (50s)
+-----------------------------------------------------------------------------------------------
+# TEMA:
+- O Nosso tema é... 
+- Que está relacionado ao assunto de sustentabilidade, que é um topico super importante na atualidade vcs concordam? .... Sim, com certeza!!!
+
+# EQUIPE
+- E é com grande prazer que eu apresento a nossa equipe, que é composta pelos apresentadores Christyan e Deri, pela líder Marcela, e pelos membros Cintia e Wesley.
+- As nossas reuniões são diárias, 5x/semana, proximas ao horário de almoço dos integrantes, 12:30 às 13:30.
+
+# SETOR
+- Esse grande Time é composto por profissionais do DTI e da Logistica, que ficam localizados nesses diversos locais da fabrica;
+- e possuem como missão ....
+
+# ORIGEM DO NOME: 
+- Quando iniciamos nossos trabalhos, la em jan, um desejo que todos tinhamos em comuim era trabalhar com a temática de sustentabilidade e meio ambiente.
+- Estamos empenhados com o fortalecimento dos compromissos da Honda até 2050, dentre elas a Neutralidade de Carbono, que foram inclusives reforçados na abertura da semana ambiental pelo Sr. Nishida e Sr. Julio  (03 a 08/06/24).
+- Assim sendo, nossa equipe acredita que a junção das palavras Work e Flowers traduza essa necessidade prática e imediato pela intensificação do desenvolvimento de trabalhos de Redução dos impactos das operações da fabrica ao meio ambiente que sejam economicamente viáveis, utilizando-se para isso das habilidades singulares de cada integrante da equipe. 
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 3: Cronograma (20s)
+--------------------------------------------------------------------------------------------------------------------
+# CRONOGRAMA:
+Utilizando a metodologia de gerenciamento PDCA que tem como objetivo a melhoria continua de processos, nós definimos o cronograma no período de jan a out/24, iniciando os trabalhos com a formação da equipe e passamos por todas as fases de confecção do trabalho com atuação em massa da equipe até chegar no momento atual onde estamos, 3a classificatoria. 
+
+	. E o principal marco no mes de maio, que é importante Ressaltar, que obtivemos aprovação da gerencia e gg do DTI para implantação do piloto no DTI;
+	. E para nossa surpresa, gostaram tanto do trabalho que recomendaram que ele fosse apresentado tbm para o shukabumom da area ambiental da fabrica, o Sr. Nasser;
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 4: Motivo da Escolha do Tema (1min)
+--------------------------------------------------------------------------------------------------------------------
+# MOTIVO:
+- Para escolha do tema desse ano, nossa equipe iniciou observando a Preocup.....
+	. No cenário mundial vemos a enchurrada de noticias a respeito de catastrofes ambientais em várias localidades. Reconhecemos que Mudanças climáticas estão acontecendo e são intensificadas pelo aquecimento global e pelo agravamento do efeito estufa: Seca no Norte do país 2023 / Enchentes e desastres ambientais de grandes magnitudes (exemplo da enchente do Rio Grande do Sul);	
+	
+	. Depois observamos que a nossa empresa (honda mundial) está intimamente envolvida com ações e projetos a nivel mundial para mitigar esse problema, como blue, parque eolico de xangrilá, etc ....;
+
+	. Indo mais profundamente, A equipe identificou que a Honda HSA publica anualmente as estratégias de sustentabilidades da empresa, e tambem implanta várias ações (até 2050 xxx,) e obtem certificações (green factory e green office) para se alinhar a esse objetivo que deve ser de todos nós, cuidar da nossa casa comum. Além disso um dos objetivos ambientais da Honda é a Redução de consumo de energenticos (GreenCard);
+
+
+Ponto Chave: Temas possíveis de execução e implantação com as forças próprias;
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 5: Motivo da Escolha do Tema (1min)
+--------------------------------------------------------------------------------------------------------------------
+- Diante disso, a equipe buscou saber mais informações sobre consumo de energia eletrica da HDA/HCA em 2023. Nós identificamos que mensalmente houve um consumo médio de ~12MWh (maior que o de muitas cidades pequenas do nosso estado), e que só esse fator corresponde a aproximadamente a geração de 109 mil ton Co2 p/mes. Nesse levantamento consideramos setores diretos, xxxx... e diversos itens de consumo como iluminação, eqpto TI ....
+
+- Sendo assim nós pensamos, será que podemos contribuir reduzindo o consumo dentro da nossa área de atuação? Então, fomos investigar a volumetria dos equipamentos de TI da fabrica que possuem consumo acima de 75w/h. Identificamos que existem 5504 equipamentos de TI nessa situação, dentre eles monitores, desktop..., e que a maior parte deles é formada por Desktops e Monitores....
+
+. "Como podemos perceber somente desktops e monitores correspondem a 80%..."
+
+Ponto chave: A equipe foi capaz de enxergar as “deficiências” ou oportunidades e escolheu um determinado tema;
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 6: Motivo da Escolha do Tema (1min)
+--------------------------------------------------------------------------------------------------------------------
+- Buscamos então fazer um levantamento da projeção do consumo de energia dos 5504 equipamentos de TI no ano de 2023. Para isso identificamos os equipamentos, qual o consumo informado no site do fabricante, TTL de horas do turno adm, e identificamos a tarifa.... 
+- Chegamos ao ttl de 344mil por ano.
+- Utilizando o grafico de pareto, podemos constatar que o maior consumo está nos desktops e monitores (317 mill ~7 mil ton). Por isso decidimos criar um tema para redução do consumo de energia nesses equipamentos.
+- Porém, 1º precisamos entender como esses equipamentos são utilizados atualmente... 
+
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 7: Situação Atual (2min)
+--------------------------------------------------------------------------------------------------------------------
+# SITUAÇÃO ATUAL:
+- Para entender como esses equipamentos são utilizados atualmente, temos que observar o fluxo de trabalho dos colaboradores que são os principais utilizadores desses equipamentos ...
+- O TUrno administrativo vai das 7h até as 16:45h. O Colaborador chega na fabrica ....
+- A equipe buscou verificar se a empresa possui normas relacionadas a utilização sustentável desses equipamentos. 
+	O que nos chamou atenção é que existe uma norma de governança corporativa da honda que... 
+- Sendo assim, constatamos que ...
+
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 8: Situação Atual (2min)
+--------------------------------------------------------------------------------------------------------------------
+"Tavez vc deve estar se perguntando, mas p/ que serve XPTO? nós nos fizemos a mesma pergunta, resolvermos investigar usando o principio das 3 realidades,genba, genbutsu e genjitsu."
+
+- Mas nós não paramos por ai... Continuando a análise, resolvemos comprovar com o principio das 3 realidades (genba, genbutsu e genjitsu.) se de fato ocorre esse desperdício.
+- Inicialmente fizemos uma avaliação no site do fabricante quais são os estados de consumo dos equipamentos...
+- Em seguida, no genba constatamos que nos períodos de ociosidade os equipamentos permanecem no estado ligado.
+- Além disso, fazendo um genbutso, que é entrar em contato com o objeto e avaliar as principais especificações, procuramos saber sobre as politicas de controle de energia desses equipamentos e identificamos que atualmente eles estão configurados para nunca atuar na redução de consumo de energia em caso de ociosidade.
+- Sendo assim, concluimos como Genjitsu que...
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 9:  ANALISE DAS CAUSAS: (2min)
+--------------------------------------------------------------------------------------------------------------------
+- Tendo identificado o problema, a equipe resolver buscar a causa raiz do problema (“É O FATOR QUE, QUANDO RETIRADO, O EFEITO DESAPARECE.”) Para isso, usamos o diagrama de 4m e tecnicas de braimstorming. 
+- Identificamos que Maquina está OK. 
+- Mao de Obra está OK;
+- Material tbm;
+- Método....
+
+- Fizemos então a analise dos 5 porques.
+- Diante disso....
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 10: OBJETIVOS E METAS: (30s)
+--------------------------------------------------------------------------------------------------------------------
+Sendo assim, Para resolver a causa raiz identificada, utilizamos como guia o metodo smart para definir objetivos e metas ...
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 11: ESTUDO DAS SOLUÇÕES:  (30s)
+--------------------------------------------------------------------------------------------------------------------
+A energia elétrica é definida matematicamente pela expressão...
+Onde E é a energia eletrica, P é a potencia solicitada pela carga e t é o tempo de funcionamento da carga.
+
+Logo, para se economizar energia elétrica, só existem duas formas:
+	1) Reduzindo a potencia das cargas; (Melhoria da eficiência dos equipamentos, através de novas tecnologias);
+		-> O que exigiria alto custo de investimento para reaquisição de equipamentos;
+	2) Reduzindo o tempo de funcionamento da carga; (Melhoria de processos produtivos / mudança de hábitos / automatização);
+		-> 
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 12: ESTUDO DAS SOLUÇÕES: Proposta 1 (30s)
+--------------------------------------------------------------------------------------------------------------------
+
+Para estudo das soluções nossa equipe buscou por meio de Brainstorming  Esgotar as alternativas para eliminar a causa evidenciada, REDUZINDO O TEMPO DE FUNCIONAMENTO DOS EQUIPAMENTOS EM ALTO CONSUMO NOS MOMENTOS DE OCIOSIDADE.
+
+Pontos Chaves: Temas possíveis de execução e implantação com as forças próprias.
+. Selecionamos as mais viaveis apos o braimstorming (Considerar a relação custo x benefícios.);
+Definir as ações para eliminar as causas e escolher a melhor opção considerando os fatores envolvidos (Ex Custo, Prazo, Qualidade, etc)
+
+Considerar a relação custo x benefícios, prazo e viabilidade.
+
+
+A 1ª proposta avaliada foi ...
+
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 13: ESTUDO DAS SOLUÇÕES: Proposta 2 (30s)
+--------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 14: ESTUDO DAS SOLUÇÕES: Proposta 3 (30s)
+--------------------------------------------------------------------------------------------------------------------
+A empresa equipa todos os seus PCs com Windows 10. Esses
+máquinas também são modelos com qualificação Energy Star, o que significa
+eles consomem menos energia nos modos ativo e de suspensão do que os típicos
+modelos.
+
+
+Os recursos de gerenciamento de energia do computador (CPM) colocam automaticamente os computadores em um "modo de suspensão" de baixo consumo de energia após um período de inatividade. Basta tocar no mouse ou no teclado para "acordar" o computador em segundos. Seu administrador de rede pode ativar essas configurações de maneira rápida e fácil em toda a sua rede.
+
+É mais fácil do que você pensa. Há muitas maneiras de ativar as configurações de suspensão em redes de computadores. Além do reconhecimento por seus esforços, a EPA oferece diversos recursos, incluindo consultas técnicas individuais gratuitas, para ajudá-lo a determinar a melhor maneira de ativar os recursos de gerenciamento de energia em seu ambiente de TI.
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 15: ESTUDO DAS SOLUÇÕES: Detalhe da Proposta 3 (30s)
+--------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 16: ESTUDO DAS SOLUÇÕES: Detalhe da Proposta 3 (30s)
+--------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 17: ESTUDO DAS SOLUÇÕES: Detalhe da Proposta 3 (30s)
+--------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 18: VIABILIDADE DA IMPLANTAÇÃO: (1min)
+ É muito importante demonstrar, também, quais foram as dificuldades encontradas na implantação da melhor alternativa.
+
+
+Tempo da equipe de TI , pois deve-se tomar cuidado para garantir que os computadores inativos não interfiram na distribuição de atualizações de software administrativo . Além disso, aplicativos de software mais antigos e dispositivos periféricos devem ser testados quanto à compatibilidade de “suspensão” . Mesmo para as maiores empresas, essas precauções raramente levam mais do que alguns dias de trabalho – e a EPA pode economizar seu tempo .
+Soluções de software . Há muitas maneiras de ativar as configurações de suspensão em redes inteiras de computadores, incluindo ferramentas de gerenciamento integradas (“nativas”) da Microsoft . Os pacotes de software comercial geralmente oferecem soluções mais ricas em recursos e podem proporcionar mais economia de energia, mas envolvem taxas de aproximadamente US$ 3 a US$ 15 por PC.
+
+
+
+Apenas um problema: se o monitor foi configurado para dormir após 15 minutos,
+poderia interferir com a ferramenta de desfragmentação, que começou ao mesmo tempo
+Tempo. A solução foi configurar o monitor para entrar em standby após
+mais 5 minutos (um total de 20 minutos de inatividade). Depois
+a desfragmentação estiver concluída, o sistema entrará em espera
+e, em seguida, hibernar após o sistema ficar inativo por 60 e
+120 minutos, respectivamente.
+--------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 19: ANALISE DOS RESULTADOS: (1min)
+--------------------------------------------------------------------------------------------------------------------
+
+coloque automaticamente
+monitores e computadores em modo de suspensão de baixo consumo de energia após um período predefinido de inatividade. Tocar no mouse ou teclado desperta
+monitores e computadores em segundos, permitindo que os usuários
+retomar o trabalho sem demora. Os recursos de CPM não economizam apenas energia
+e dinheiro: são bons para o ambiente. Economizando energia
+reduz a poluição do ar associada à queima de combustíveis fósseis,
+e, em última análise, reduz o risco de aquecimento global.
+
+
+Os esforços da empresa economizarão cerca de 5.291
+toneladas métricas de CO2 por ano - isso é quase 157 libras de CO2 por
+usuário anualmente. De acordo com estimativas da EPA, este é o equivalente
+de retirar 1.012 veículos de passageiros das estradas (com base na
+emissões de CO2 do consumo de 595.178 galões de gasolina). Ou,
+igual a livrar o planeta da quantidade de carbono sequestrado
+a cada ano por 1.128 acres de floresta de pinheiros ou abetos.
+
+
+- Aprimorando a segurança dos dados reduzindo a chance de que informações valiosas sejam exibidas em PCs autônomos
+Melhorando a produtividade do usuário eliminando a espera diária para que os computadores inicializem
+Ajuda o meio ambiente. A economia de energia reduz a poluição do ar associada à queima de combustíveis fósseis e, em última análise, reduz o risco de mudança climática.
+
+As pessoas geralmente deixam seus computadores ligados à noite? (A economia será alta para empresas com 100% de seus computadores ligados à noite, muito menor para aquelas que não o fizerem.)
+	
+	- Valorizar os resultados obtidos e em quanto tempo; Qual o resultado após implantação e outros ganhos?
+	
+	- "Esse trabalho fantástico feito pela Ciama vai resultar em evitar o desperdício, geração de economia e fazer o menor consumo de energia, diminuindo as contas do Governo do Estado em relação a este item. Depois da Ciama, o trabalho será feito aqui na Sedecti. Providências serão tomadas exatamente nesta direção”;
+	Plano de eficiencia energetica; Conscientização do consumo;
+	
+	“Não existe “Meta atingida” . Existe Meta Traçada e resultado obtido”.
+
+Ponto chave:  Foco no resultado principal.
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 20: FREIO CONTRA O RETROCESSO: (40s)
+--------------------------------------------------------------------------------------------------------------------
+Demonstrar os mecanismos usados para que não haja reincidência do problema.
+Implantação de Sistemática voltada a corrigir a situação que propiciou a ocorrência da causa raiz do problema.
+. Gerenciamento de energia do computador (CPM) como um componente de seus programas de eficiência energética comercial (EE) ou de gerenciamento do lado da demanda.
+	Nesse contexto, a Universidade empenha-se na busca de medidas visando ao uso 
+sustentável da energia. Como passo inicial, instituiu-se a Portaria n° 023/2008, 
+objetivando a elaboração e a implantação de uma política de gestão energética no 
+Campus Universitário.
+
+“Se o padrão de serviço estava errado, não basta simplesmente mudar o padrão de serviço. Deve-se pensar no que vai ser feito para que o padrão de serviço não seja emitido errado.”
+     “O CLI deve sempre ser emitido , mas não pode ser considerado freio contra Retrocesso”.
+	 
+	 
+--------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 20: TRABALHOS FUTUROS: (10s)
+--------------------------------------------------------------------------------------------------------------------
+ Mostrar, em linhas gerais,  quais são as intenções da equipe para o próximo evento de NHC.
+Em que área o grupo deseja atuar no próximo NHC?
+
+--------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 21: REFLEXAO:
+--------------------------------------------------------------------------------------------------------------------
+ A cada 7 árvores, é possível sequestrar 1 tonelada de carbono nos seus primeiros 20 anos de idade. Com base nesta média é determinada a quantidade de árvores que serão necessárias para neutralizar as emissões dos Gases de Efeito Estufa (GEE).
+ 
+ energeticamente eficientes e usam 25% a 40% menos do que os modelos convencionais,
+ gerenciando melhor o uso de energia quando ociosos.  
+ 
+ Uso Sustentável da Energia
+
+--------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------
+SLIDE 21: AGRADECIMENTOS: (30s)
+--------------------------------------------------------------------------------------------------------------------
+ Nesta ocasião, deve-se incluir os agradecimentos e demonstrar a satisfação da equipe com o resultado do trabalho.
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+ANOTAÇÕES: 
+
+Com metas estabelecidas para todas as unidades, a HDA contribui com temas estratégicos e de conscientização, traduzindo o dia-a-dia do colaborador, em boas práticas para a vida.
+
+promover a participação e estimular as ideias
+
+EPA - Agencia de Proteção Ambiental, originada nos EUA, criou o padrão Energy Star, reconhecido mundialmente, com objetivo de promover produtos energicamente eficientes;
+
+
+Impulsionados pelos nossos proprios sonhos
+
+how we move you 
+
+create > transcend, augment
+
+mudanças de padrões de consumo
+Prevenção da degradação do meio ambiente;
+Fortalecer a conscientização ambiental e práticas ecologicamente adequadas na empresa.
+motivar a reflexão sobre as mudanças climáticas, suas causas
+
+Reconhecemos que mudanças estão acontencendo;
+
+Nosso trabalho é uma ação feita para colaborar com compromissos da Honda até 2050 alcançar o triplo zero;
+conscientização para reflexão sobre a situação atual do planeta, efeitos e projeções e  o papel de cada um como parte interessada na Preservação do Meio Ambiente 
+
+
+
+Estamos em alinhamento com os Objetivos Ambientais (ODS - Os Objetivos de Desenvolvimento Sustentável são uma coleção de 17 metas globais, estabelecidas pela Assembleia Geral das Nações Unidas) e o tema da COP 29 (Arábia Saudita) => RESTAURAÇÃO DA TERRA, DESERTIFICAÇÃO E RESILIÊNCIA À SECA => enfoque  na restauração do meio ambiente através da conscientização.
+
+	=> Desenvolvimento dos assuntos abordados em alinhamento com a COP 29, com enfoque  na restauração do meio ambiente através da conscientização.
+	=> triplo zero: Neutralidade de carbono, energia limpa, circulação de recursos;
+	
+	
+Desenvolvimento do tema e lema da Equipe de NHC 2024 com as ações para reforçar a proteção e cuidado com o meio ambiente;
+	Ex: Tema: Restaurar o meio ambiente é ação primordial para a sobrevivência das presentes e futuras gerações.
+		Lema: Proteger o presente para construir um novo futuro
+
+
+Estamos empenhados com o fortalecimento dos compromissos da Honda até 2050, Triplo Zero (Neutralidade de Carbono, Circulação de Recursos, Energia Limpa) e ODS 
+que foram inclusives reforçados na abertura da semana ambiental pelo Sr. Nishida e Sr. Julio.
+
+# Politica ambiental: Todos nós colaboradores da HDA e HCA fabricantes do produto acabado, temps o compromisso com a proteção do meio ambiente, controlando os aspectos e impactos ambientais das atividades, produtos e serviços, atendendo plenamento ao requisitos legais e normativos, provendo a conscientização ambiental e aplicando a melhoria continua na cadeia produtiva.
+
+
+# Objetivo do nosso trabalho é tbm:
+1 - Fortalecer os compromissos definidos na Política Ambiental da Moto Honda da Amazônia Ltda entre os colaboradores.
+2 - Fortalecer a marca junto ao público externo com ações demonstrem na prática o posicionamento da Honda em relação ao Meio Ambiente.
+
+Objetivo : Fortalecer a conscientização ambiental e práticas ecologicamente adequadas na empresa.
+
+Demonstrar as atividades internas que a Honda realiza em contribuição com a recuperação e manutenção do meio ambiente.
+7R é um processo educativo para promover a sustentabilidade e reduzir o impacto ambiental;
+Atividade: Realização de Palestra para motivar a reflexão sobre as mudanças climáticas, suas causas
+
+Palestra de conscientização para reflexão sobre a situação atual do planeta, efeitos e projeções e  o papel de cada um como parte interessada na Preservação do Meio Ambiente.
+	- Nosso Mundo Hoje: Mudanças climáticas e seus efeitos: Elevação da temperatura até 2050Efeitos: Seca no Norte do país 2023 / Enchentes e desastres ambientais de grandes magnitudes (exemplo da enchente do Rio Grande do Sul)
+	- Por que está assim? Porque isso está acontecendo?DesperdíciosConsumo excessivoDesmatamentoCrescimento populacionalemissões etc
+	- Qual o papel de cada um? Governos: Tratados, pactos, ODSIndustria: qual o papelSociedade: conscientização / iniciativa
+
+
+No dia do Meio Ambiente (5 de Junho de 2024), a liderança (encarregados, chefes, supervisores) devem definir equipes setoriais para fazer checagem e 5s nas áreas externas (adjacentes) aos setores. PONTOS A OBSERVAR
+Descarte inadequado de resíduos;
+Limpeza de ruas e áreas (retirar os resíduos);
+Limpar e retirar manchas de óleos em pisos ou ruas;
+Verificar obstruções e validades de equipamentos de combate a incêndio;
+Retirar produtos químicos fora da área de contenção;
+Lâmpadas acesas e, horários desnecessários;
+Vazamento de água, gás e ar comprimido (acionar manutenção)
+
+
+
+
+A busca de soluções sustentáveis que visam a causar o mínimo impacto ao meio ambiente tornou-se prioridade mundial.
+ O futuro depende de atitudes ambientalmente corretas e economicamente viáveis.
+  A palavra "Workflowers" foi separada com o intuito de destacar 2 outras palavras "Trabalho" e "Flores" , traduzindo o caráter prático e imediato dos eventos e sua capacidade de transformação do planeta, representado na letra "o".
+  
+  . "Unidos pela alegria de criar e materializar os sonhos, nesse ano refletimos esforços para as questões ambientais. "
+
+
+Freio contra o retrocesso:
+	Add checagem de computadores/monitores ociosos ligados em alto consumo nas checagens de 5s dos setroes e especialmente no dia do meio ambiente;
+
+proteger o meio ambiente é ação primordial para a sobrevivência das presentes e futuras gerações
+Proteger o presente para construir um novo futuro
+	=> Alinhados aos Objetivos de Desenvolvimento Sustentável (ODS) e ao tema da COP29, que é a restauração da terra, utilizamos o marrom como cor principal, simbolizando o solo/terra, e um verde vibrante para conotar uma grama fresca e nova, representando a vegetação. A palavra "restauração" foi separada com o intuito de destacar a palavra "ação", traduzindo o caráter prático e imediato dos eventos e sua capacidade de transformação do planeta, representado na letra "o".
+
+
+# Politica da Gestão:
+Mantenha sempre o sonho e o espirito 
+Valorize as teorias as ideias e o tempoame o seu trabalhjo e valorize a comunicação
+Crie constantemente um fluxo de trabalho harmonioso
+Tenha sempre em mente os valores da pesquisa e da perserverança;
+
+# Politica Ambiental:
+Todos nós colaboradores da HDA e HCA fabricantes do produto final acabado, temos o compromisso com a proteção do meio ambiente, controlando os aspectos e impactos ambientais das atividades, produtos e serviços, atendendo plenamente aos requisitos legais e normativos, provendo a conscientoização ambiental e aplicando a melhoria continua na cadeia produtiva;
+
+# 4 pilares da oikutuca ambiental
+Atendimento a legislação / melhoria continua / Proteção do Meio Ambiente / Conscientização ambiental;
+
+
+
+
+
+campanha de conscientização em relação ao uso de energia Criar um minidor, quiz ambiental, palestras; A atividade consiste em uma ação voluntária de conscientização ambiental na prática
+
+
+Para participar dessa tomada de consciência e contribuir ativamente com o desenvolvimento sustentável, aceite o convite: use este manual com esclarecimentos, 
+dicas e soluções para utilizar a energia de forma eficiente e garantir um futuro sustentável para todos nós uso racional de energia consiste em uma série de ações e medidas de caráter técnico, gerencial e comportamental, que visam a diminuir o consumo de energia e buscam a sustentabilidade.
+
+Ao adquirir um notebook ou computador, prefira aqueles com o selo Energy Star, que consomem menos energia
+
+
+Distribuir um panfleto com dicas:
+ Ao adquirir um notebook ou computador, prefira aqueles com o selo Energy Star, que consomem menos energia.
+• Na hora da compra opte por um monitor de LED.
+• Após a carga das baterias do notebook, retire a fonte/carregador da tomada. Caso utilize o notebook ligado na tomada, retire a fonte/ carregador da tomada após o desligamento do notebook.
+• Não deixe os acessórios (impressoras, scanners, caixas de som, etc.) ligados sem necessidade. 
+• Faça um bom ajuste do brilho e contraste do monitor de seu computador.
+• Selecione, no painel de controle do sistema operacional do seu notebook ou computador, o modo de economia de energia. Dessa forma você reduz o consumo do notebook, computador e monitor.
+• Quando o computador estiver inativo, utilize o stand-by (modo suspender ou hibernar). Nessa função, a potência diminui consideravelmente.
+• Se o tempo de inatividade for muito grande, não o deixe em stand-by, desligue-o.
+
+O conceito de consumo sustentável surgiu a partir do termo desenvolvimento sustentável, divulgado pela Agenda 21, em que são relatadas as principais ações 
+a serem tomadas pelos governos aliando a necessidade de crescimento dos países com a manutenção do equilíbrio do meio ambiente. Os temas principais 
+desse documento falam justamente sobre mudanças de padrões de consumo, manejo ambiental dos resíduos líquidos e sólidos e saneamento, abordando ainda o 
+fortalecimento do papel do comércio e da indústria em relação a esse tema.
+
+A busca de soluções sustentáveis que visam a causar o mínimo impacto ao meio ambiente tornou-se prioridade mundial.
+ O futuro depende de atitudes ambientalmente corretas e economicamente viáveis.
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+# Frases: 
+	. Em linhas gerais; A grosso modo; Em resumo; E não para por ai; / Galgando o cume da montanha da sustentabilidade energética; / bem no coração da fabrica / 
+	. Como passo inicial; Damos inicio as nosssas atividades;  É com muito prazer que...; Gostamos de deixar claro..; O que nos chamou atenção; 
+	. "Tavez vc deve estar se perguntando, mas p/ que serve XPTO? nós nos fizemos a mesma pergunta, resolvermos investigar usando o principio das 3 realidades,genba, genbutsu e genjitsu."
+	. "Ficou dificil de entender?" / Mas a final de contas o que é XPTO? / Visão além da cota / Focados na visão 2050 reduzir p/ 0 emissão de CO2;
+	. "Movidos pela arte de criar, sonhar e realizar";
+	. "Valorizando as habilidades unicas de cada integrante"
+	. "Uma vez que XPTO, o processo vai funcionar assim, correto?"
+	. "Nesse contexto a equipe se empenha na busca de medidas que promovam o uso sustentavel da energia."
+	. "Coloca automaticamente os desktops e monitores em modo de baixo consumo de energia após um periodo de inatividade predefinido. Basta tocar o mouse ou o teclado para acordar o computador em segundos."
+	. "Sabemos que isso é dificil porem conforme disse o fundador da marca, soichiro Honda, é preciso ter coragem de sugerir novas ideias"
+	. "Unidos pela alegria de criar e materializar os sonhos, nesse ano refletimos esforços para as questões ambientais. "
+	. Energeticamente eficiente usando de 50% a 90% a menos do que no estado anterior;
+	. Aprimorando a segurança dos dados, reduzindo chances de vazamento de informações valiosas em ataques ciberneticos, como ocorrido anos atras onde foram afetados principalmente micros ligados durante a noite;
+	. Melhorando a produtividade do usuairo eliminado a espera diaria para inicializar o eqpto e carregar arq.
+	. Em pesquisa pós tryout no DTI percebemos que houve Muito pouco ou nenhum impacto na rotina dos funcionarios.
+	. Se o tempo de inatividade for muito grande, não deixe em stand by, desligue;
+	. Cronograma do NHC é bem desafiador e nos temos que fazer acontecer competindo com atividades diárias. Isso é desafiador mas vale a pena;
+	. Objetivo do NHC é trazer melhorias  p/ nós, nossos coletas e para organização;.
+	. Quando iniciamos em jan, um desejo que todos tinhamos em comuim era trabalhar com meio ambiente.
+	. Medidas de carater tecnico gerencial e comportamental que visam diminuir o consumo;
+	
+	. Uso racional de recursos; / Gerenciar a eficiencia energetica / Redução de emissões atmosféricas / Reduzir o impacto das operações da fabrica / 
+		Engajar os colaboradores no uso racional de energia; / Aplicação em toda a cadeia => Incentivando DLRs e fornecedores que são orientados e avaliados por sua perfomance ambiental / Estendendo o compromisso da marca Honda a toda a cadeia produtiva;
+
+		Reduz risco de aumento de mudanças climáticas;
+#########################################################################################################################################################################
+
+
+
+############################################################################################################################
+----------------------------------------------------------------------------------------------------------------------------
+1. Capa / Apresentação do Círculo (30s):
+	. Olhar para os jurados enquanto fala, demonstrando entusiasmo segurança e confiança;
+	. Ponto chave: 1ª Impressão dos jurados;	
+		. "Unidos pela alegria de criar e materializar os sonhos, nesse ano refletimos esforços para as questões ambientais. "
+		. Impulsionados pelos nossos proprios sonhos
+	. Falar infos de: tema, equipe, setor de origem, freq reunião.
+		. "Reafirmamos a missão dos nossos setores ..."		
+	
+----------------------------------------------------------------------------------------------------------------------------
+2. Cronograma de Atividades (20s)		
+	. Resumir iniciando pela formação da equipe até a etapa atual, ressaltando comprometimento de cada um dos responsaveis;
+	. Ressaltar a realização do Go/nogo do piloto e implantação no DTI;
+	. Ressaltar que para nossa surpresa nos pediu para apresentar o nosso tema para o shukabumom de meio ambiente da fabrica, sr. Nasser;
+	
+----------------------------------------------------------------------------------------------------------------------------
+3. Motivo da escolha do Tema (3min30s)	
+	. Temas possiveis de execução/implantação com as proprias forças; Não é uma pequena melhoria do dia a dia nem uma meta departamental;
+	. Levantar, quantificar e priorizar os problemas; 
+	. Ponto chave: A equipe foi capaz de enxergar as deficiencias/oportunidades p/ então escolher um determinado tema;
+	
+	. "Reconhecemos que mudanças climpaticas estão acontencendo;" - Nosso Mundo Hoje: Mudanças climáticas e seus efeitos: Elevação da temperatura até 2050 - Efeitos: Seca no Norte do país 2023 / Enchentes e desastres ambientais de grandes magnitudes (exemplo da enchente do Rio Grande do Sul)
+	. "Como podemos perceber somente desktops e monitores correspondem a 80%..."
+	
+	
+
+----------------------------------------------------------------------------------------------------------------------------
+4. Análise da Situação (1min30s)	
+	. Verificar a sequencia do processo onde ocorre o problema detectando pontos falhos; 
+	. Concentrar maior esforço para deixar claro o ponto critico do tema;
+	. Falar Genba,Genbutsu,Genjitsu no principio das 3 realidades, inclusive o significado quando oportuno;
+	. Ponto Chave:Analisar todas as variaveis possiveis e manter foco na situação atual s/ pensar em solução;
+	
+	. . "Tavez vc deve estar se perguntando, mas p/ que serve XPTO? nós nos fizemos a mesma pergunta, resolvermos investigar usando o principio das 3 realidades,genba, genbutsu e genjitsu."
+	
+----------------------------------------------------------------------------------------------------------------------------
+5. Análise das Causas (2min)	
+	. É o fator que quando retirado o efeito desaparece; => Causa raiz; considerado como tema da equipe;
+	
+----------------------------------------------------------------------------------------------------------------------------
+6. Objetivo e Metas (30s)	
+	. Logica do numero definido como meta; Deve ser Claro e objetivo;
+	. Não precisa falar todos os itens do Guia Smart;
+	. "Os esforços da equipe nesse trabalho economizarão X ton Co2 por ano;"
+	
+----------------------------------------------------------------------------------------------------------------------------
+7. Estudo de Soluções  (2min)
+	. Definir Ações que eliminam a causa raiz; Apresentar o fluxo da proposta;
+	. Analisar varias alternativas explicando as mais viaveis e o pq. Demonstrar que esgotou as possibilidades;
+	. Ponto Chave: Solução bem definida e consistente; -> Espirito do NHC: Solução simples com grandes resultados;
+
+----------------------------------------------------------------------------------------------------------------------------
+8. Viabilidade de Implantação  (2min)
+	. Demonstrar testes e as dificuldades da implantação da melhor alternativa;
+	. Cronograma da implantação e processos afetados (Mais prudente implantação gradativa com piloto no DTI);
+	. "Mas vcs acham que foi facil assim? Não.. Não foi tao facil, pq p/ implantar no DTI tivemos varias dificuldades. Entre elas obsolescencia, xxxx. No entanto a equipe num trabalho conjunto, superou todas essas dificuldades."
+	. "Nosso trabalho se encontra implantado como piloto no DTI para try out da solução"
+	. ". Em pesquisa pós tryout no DTI percebemos que houve Muito pouco ou nenhum impacto na rotina dos funcionarios."
+	
+----------------------------------------------------------------------------------------------------------------------------
+9. Análise dos Resultados (1min)	
+	. Resultados alcançados em comparação com indicador principal que é a meta. Foco no resultado principal; Valorizar isso;
+	. Outros resultados em sugundo plano para nao confundir os jurados;
+	. Meta traçada e resultado obtido;
+	
+	. ". "Coloca automaticamente os desktops e monitores em modo de baixo consumo de energia após um periodo de inatividade predefinido. Basta tocar o mouse ou o teclado para acordar o computador em segundos.""
+
+----------------------------------------------------------------------------------------------------------------------------
+10. Freio Contra Retrocesso (40s)
+	. Demonstrar mecanismos usados para que não haja reincidencia do problema (nunca + ocorra);
+	. Implantação de sistematica que corrija a situação que levou a causa raiz do problema; Atacar a causa raiz;
+	. "O que vai ser feito para que o padrão de serviço nao seja mais emitido errado". Não basta simplesmente mudar o padrão.
+	. Ponto chave: Medida que não permita reincidencia; Ex: Desenvolver fluxo, criar manual, criar norma, treinamento, nova sistematica de controle;
+	
+----------------------------------------------------------------------------------------------------------------------------
+11. Trabalhos Futuros (20s)
+	. Intenções da equipe para o trabalho de NHC do proximo ano;
+		. Avaliar outras formas de geração de energia eletrica para a fabrica (solar, eolica, termica, hidraulica,  Natural, etc);
+----------------------------------------------------------------------------------------------------------------------------
+12. Agradecimentos / Fim (30s)
+	. Além de agradecer (ao gerente e gg do DTI e tbm a toda area de infra e governança do DTI que nos abriram as portas para conhecer os detalhes dos processos deles e nos deram todo o suporte na realização desse trabalho), demonstrar satisfação da equipe com o resultado do trabalho:
+		. "O que + nos alegra é ver nossas reflexões colocadas em prática, de acordo com a filosofia de protagonismo dos colaboradores fomentada pela empresa. saber que estamos contribuindo ativamente com o desenvolvimento sustentavel da empresa no Uso racional de recursos na eficiencia energetica, alem de... Redução de emissões atmosféricas / Reduzir o impacto das operações da fabrica / Reduz risco de aumento de mudanças climáticas;"
+		. "Fortalecer os compromissos definidos na Política Ambiental da Moto Honda da Amazônia Ltda entre os colaboradores."
+		
+		. Reflexão sobre a situação atual do planeta, e o papel de cada um como parte interessada na Preservação do Meio Ambiente. 
+
+----------------------------------------------------------------------------------------------------------------------------
+13. Conversa com os jurados (LIVRE)
+	. Durante as perguntas e observações que eles fizerem, Momento de elogiar;
+		. "Otima pergunta" / "Muito obrigado pela pergunta Sr Fulano" / ;		
