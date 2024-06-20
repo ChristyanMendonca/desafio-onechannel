@@ -1,0 +1,298 @@
+- Como é a criação das SQUADS com arquitetura? Se for selecionado um arquiteto que é especialista em cloud pra um projeto que alem cloud tbm vai ter mobile e web? Como é a distribuição de projetos? vcs tem algum comitê de temas importantes ou para selecao dos temas estrutyurantes? O arquiteto que monitora ambiente ou desenvolve temas estruturantes ele tbm entra nas SQUADs de temas de metas?  o arquiteto ficar 100% num projeto específico até sua entrega final? como fazer pra obter as planilhas de arquittura? existe uma divisão formal de arquiteto de dados, de solução, de SW, de HW, corporativo, de cloud, etc? Qual a fronteira entre o trabalho do arquiteto de soluções e o BP na HSA e HSF?
+- Temas da equipe de inovação tbm passam pela arquitetura?
+- Ainda é a equipe de Arquitetura que revisa os codigos de terceiros desenvolvidos em cada projeto e pode rejeitar entregas que nao estejam seguindo o padrão? Se sim, o que o BP faz? 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ARQUITETURA:						
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Para Montar os diagramas necessários:
+	- Estudar notação BPMN; 
+	- Estudar UML;
+	- Estudar archmate;
+	
+- Prioridade: Definir proposta de trabalho da arquitetura HDA (Como tudo tem que acontecer / Relação / Fluxo);
+
+		. Conversar com equipe arquitetura HSA/HSF pra pedir um organograma, fluxograma ou outro material para explicar como tudo funciona lá, quem é o chefe, o responsável, o que cada um faz, o que ele é, etc. Que tipo de trabalho fazem ai?
+		
+		. Depois Risca no papel como é essa estrutura. Como é que funciona lá dentro os papeis de Projeto de inovação/comitê novos projetos/consultoria a bps? qual o cargo dessa pessoa? que tipo de trabalho faz lá? É apenas um fazedor de coisas ou alguem com um cargo especial la dentro? Pra poder ter uma visão mais clara. De como falar pra ganhar força. Como SAO comecou?	
+				
+		. Definir como será o fluxo da arquitetura na HDA e da equipe de inovação (Visão Gestor):
+	
+		. Desenhar toda a estrutura da minha função e listar quais as minhas atividades. Daqui a pouco começar a listar as atividades dos outros; Elaborar a proposta de arquitetura (organograma e fluxograma); Traçar as linhas mestras de como tudo conversa (sistenas, projetos, processo de ti, etc);
+			. Criar um fluxograma de como tudo começa e termina;			
+			. Definir organograma da arquitetura;			
+				. Avaliadores: Gestores até o nivel de diretoria e Arquiteto; Obs: A arquitetura deve estar diretamente ligada até a Diretoria. Importante criar momentos para alinhamento direto com a Diretoria;
+				
+						
+
+- Está começando um setor novo (Digital). Sendo assim, o que se quer? Começar certo, devendo-se para isso Assimilar bem qual a função do arquiteto:
+
+	a) Qual a função do arquiteto? o que faz qual o seu papel?
+		R: Resposta abaixo na sessao atividades de arquitetura.
+
+	b) Quais os itens que o arquiteto tem que entregar? como isso acontece? 
+		R: a) O arquiteto desenha a arquitetura de todos os projetos de meta do setor;
+
+		   b) Estabelece politicas corporativas. Ex: Utilizar software livre; Isso nao pode ser Politica só de um projeto específico;
+
+			Obs: O arquiteto Não é fazedor em hipótese alguma. Ele é no máximo um consultor, caso contrário isso irá o consumir; 
+
+						 						 
+	c) Qual o cargo de cada pessoa da Arquitetura?
+			c) Supervisor e Especialista; Porém a gestão define e bate o martelo;
+
+
+	d) Quais as principais atividades a começar? 
+		R: desenha a visão de arquitetura do cenário atual (AS IS) e, dados os objetivos estratégicos, faz a proposta da visão de arquitetura futura (TO BE) e da arquitetura de transição (estratégia para partir do cenário atual rumo ao cenário futuro).
+	
+	e) Distribua as responsabilidades para os demais definindo a função de cada um. 		
+			. O arquiteto deve mostrar como deve ser feito e fiscalizar; É  algo dinamico sempre vai evoluindo acompanhando a própria evolução da empresa;
+			. A inovação vai desenvolver temas de experimentação de novas tecnologias (IA, IoT, etc);			
+			. Sustentação:
+			. BP: 
+			. Segurança Informação:
+			. Infra: ;
+			
+	f) Da pra trabalhar em Squads? Várias? 
+		R: Na HSA atualmente não. Porem, está se pensando nessa mudança. Atualmente, abre-se um chamado para o arquiteto fazer alguma coisa no projeto. Porém, estão tentando migrar pra um formato de squad onde cada projeto terá seu arquiteto desde o inicio do projeto;
+	
+	g) O que é a area de arquitetura?
+		R: É uma área prestadora de serviço assim como a SI;
+	
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Obs: o arquiteto Honda precisa ter conhecimento sobre as novidades e sobre o que é amplamente usado nos desenvolvimentos. Ex: Microservicos, apis, ambientes clouds, bases de dados relcionais e nao relacionais (mongo db, etc...) e várias outras coisas. Os arquitetos da hsa e hsf fazem muitas leituras de livros comprados na amazon e tambem em sites de bundles. Segue exemplo de links:
+ 
+	Humble bundle => https://www.humblebundle.com/
+	https://www.amazon.com.br/stores/Sam-Newman/author/B00LEP6IB0?ref=ap_rdr&amp;isDramIntegrated=true&amp;shoppingPortalEnabled=true
+
+------------------------------------------------------------------------------------
+
+A EA vai ajudar na dificuldade de onboarding de novas pessoas na equipe; 
+Isso pq uma das entregas é o mapeamento dos sistemas da organização. O que conversa com o que, quais tecnologias, releases envolvidas, etc... As pessoas novas não veem isso. Não tem embasamento.
+
+------------------------------------------------------------------------------------
+
+Massao está avaliando proposta para o arquiteto ficar 100% num projeto específico;
+
+------------------------------------------------------------------------------------
+# ATIVIDADES EM ANDAMENTO NO MOMENTO:
+------------------------------------------------------------------------------------
+
+1) Projeto EA;						xo
+2) Projeto Nova Conta AWS;			xo
+3) Projeto 101ki: Talend;			x
+x-4) Projeto 101ki: APS;			xo
+5) Projeto Datalake Keyrus;			X
+x-6) Continuidade do NHC 2024;
+7) Suporte Arquitetura de temas de BP's Projetos (Git, Upgrade Java, e Diversos outros);
+x-8) Ativ. Adm: Cappm, PDCA, solicitações gerencia/supervisão, diversos;
+9) Temas Estruturais: Arquitetura Dash Grafana;
+10) Temas Estruturais: Arquitetura Dash BI; 
+11) Avaliar solução para otimizar o acesso a sistemas da fabrica (melhoria navegação p/ substituir a pasta Sistemas Honda); - Solicitação Ricardo;
+12) Proposta de Arquitetura;
+x-13) Tema do Design Think;
+x-14) Projeto X;
+
+
+----------------------------------------------------------------------------------
+# ATIVIDADES REALMENTE DE ARQUITETURA:
+----------------------------------------------------------------------------------
+. Mapeamento de Processos e tecnologias (bds, soluções, etc) para regularizar gaps de regras de negocia de indicadores por área proporcionando governança de dados: ; 
+		-> Aqui, após esse mapeamento, podemos ter soluções RPA que vão regularizar os gaps identificados (centralizar bds e criar relatorios consolidados);
+		
+. Definindo padrões de arquitetura, desenvolvimento, ferramentas/plataformas e governança dos projetos/soluções do setor;
+	. Padronizar tecnologias do setor, documentando;
+	
+. Apoio aos BPs (consultoria);
+
+. Definição da Arquitetura de Projetos dos BPs:  O arquiteto sugere, analisa, avalia, a proposta de arquitetura - Conforme Pitstop  com preenchimento das PLanilhas de arquitetura do JP + com apresentação do U0/U1 com requisitos funcionais e projeção dos não funcionais; Porém, não funcionais completo quem estabelece é a arquitetura com base nas melhores praticas;
+		. Entregável:
+				. Arquitetura do projeto para J0 apontando oportunidades e melhores praticas;
+				. Requisitos não funcionais;
+
+. Monitoramento do Ambiente de Soluções de TI: Acompanha tudo para garantir que está funcionando;
+	. Governança de API's (API Gw da Sensidea ou API manager da WSO2);
+	. 
+
+. Temas Estruturantes / importantes para o TI: 
+		. Preparar ambiente Cloud exclusivo da HDA para temas de BI;
+		. New ETL BUS: Padronizar integração entre sistemas;
+		
+		. Novas tecnologias;
+		. Sistemas atuais;
+		. Temas para resolver pendencias/oportunidades;
+			. Git, Sonarcube, Jira, DMZ de MAO, CMDB, Swagers, Custyomizações do Grafana, talend, ApiGw, CDC, camada ETL, ecm, chat bot, , etc
+			. Link MPLS;
+			. Avaliar solução para otimizar o acesso a sistemas da fabrica (melhoria navegação p/ substituir a pasta Sistemas Honda - Solicitação Ricardo);
+			. Portal ou sistema corporativo para controle de autenticação nos demais sistemas; 
+				. Front end Stateless - feito em VueJs, desenvolvido com Node.js, é um pacote separado, desacoplado, deployado direto num http server);
+				. Controlar o Login;
+				. Montar os Menus de Acessos (base o modulo de controle de acesso);
+			. Solução de inventário de maquinas do DTI;
+			. Estabelecer padrões de desenvolvimento (javadoc, swagger, usar sempre hibernate com controle de transação em sistemas OLTP da fabrica);
+			
+					
+- Arquiteto de Dados:
+	. É responsável por avaliar e propor soluções de arquitetura para o ambiente de dados, observando sempre os critérios de performance financeira e funcional. Abaixo as principais características do seu perfil:
+		. Arquitetura de Dados: Definir padrões de Arquitetura de Dados e monitorar aderência do uso dos padrões definidos; Desenhar e estruturar a solução analítica (ingestão, armazenamento, processamento e consumo);
+
+		“Os dados não têm valor a menos que estejam identificados e classificados” estabelecer critérios de utilidade de dados e métodos para indexar as informações. “Hoje, é muito fácil comprar mais armazenamento. No entanto, essa é uma política equivocada, pois cria essa cultura de não deletar nada”;
+		
+		
+		
+- Arquiteto de Soluções
+	. Definir padrões de codificação;
+	. é responsável por garantir que a solução seja escalável, confiável e de fácil manutenção. Ele trabalha em estreita colaboração com arquitetos de software e de sistemas, a fim de garantir que as soluções sejam projetadas de forma para serem facilmente integradas aos sistemas de uma organização.
+	. projetar e garantir a operação e manutenção de sistemas, além de recomendar a combinação correta de sistemas e os componentes de TI para atender as necessidades e/ou objetivos de negócio.
+	. Por ter uma visão mais ampla e holística,garantir que as aplicações sejam projetadas de forma que possam ser facilmente integradas ao sistema como um todo. 
+	. garantir que o sistema seja construído ou configurado de acordo com as melhores práticas e padrões de mercado. 
+	. XXXX=> De forma mais detalhada, o CMDB contém informações sobre infraestrutura, sistemas, aplicações e negócios da organização. Desse modo, ele serve de base para que a TI tenha uma visão panorâmica do ambiente tecnológico da empresa.
+	 toda estratégia de gestão é mais eficiente quando temos à disposição um mapa organizado do objeto gerenciado.  O objetivo do CMDB é ajudar a TI a entender melhor a relação entre cada componente ou sistema tecnológico e as configurações realizadas. Em outras palavras, é uma espécie de documentação detalhada da arquitetura de hardwares e softwares. 
+	
+	
+- Arquiteto Corporativo:
+	Revisao da Estrutura de TI (Foco em Analise de Dados e Tecnologia - Expandir soluções Mobile, Cloud, SaaS, BI, etc);
+		- Definir BP/Projetos e Sustentação;
+		- Definir Infra e Segurança da Informação;
+		- Compliance HSA;
+		- Revise os processos de SCM;
+		- Definir politicas corporativas. Ex: de politica corporativa: Utilizar software livre; Isso nao pode ser Politica só do projeto;
+		- Traçar as linhas mestras de como tudo conversa (sistenas, projetos, processo de ti, etc);
+		- Avaliar propostas de trabalho da equipe:
+			. como o time vai atuar, escopo e missão da equipe, planos prox. Kis, expectativas, fronteiras com outras equipes, entregável a nivel de HSA;
+			. Foco industria: Melhorar experiencia do cliente, Ganho de Performance, Estratégico;
+			. Benchmarks, treinamentos, metodologias (Design Think, scrum, etc); 
+
+-----------------------------------------------------------------------------------
+# Target 102 ki:
+-----------------------------------------------------------------------------------
+- Reduzir sistemas obsoletos; 22 para 10
+- Criar soluções mobile; 0 para 7
+- Usar novas tecnologias; 4 para 13
+- Integração de maquina; 2 para TBD
+- Problemas de Segurança (Fabrica); 20 para 0
+- Problemas de Seguranã (Escritorio); 0 para 0
+- Saas; 0 para 9
+- Criação de Framework para Metodologia Agil;
+- Utilização de Design Think;
+- Implementar Analitics com BigData;
+- Adoção de IoT
+
+
+
+-----------------------------------------------------------------------------------
+# Visão e Sonho da área de TI - 2025 a 2032
+-----------------------------------------------------------------------------------
+- TI Ágil e Soluções Eficientes para Melhor Resposta à Nova Era Digital.
+
+- TI rápida e inovadora fornecendo novas soluções para eficiência nos negócios
+
+- Liderar a implementação de novas tecnologias e soluções com um foco na digitalização e mobilidade e automação, definindo padrões de arquitetura, plataformas, ferramentas e governança
+
+- Ser percebido como uma equipe que gera resultados ´para organização. Valor para areas de negocio. Skill adequado para projetos.
+
+
+-----------------------------------------------------------------------------------
+# Principais Kadais / Conceitos:
+-----------------------------------------------------------------------------------
+
+Estratégia da HDA: Estabelecer uma estrutura empresarial sustentável e preparar-se para o mercado futuro
+Estrategia TI: Renovar sistemas e infraestrutura / Preparar DTI para Implantação de SOluções Eficientes / Implantar soluções de inovação;
+
+Aumente o gerenciamento das informações de fabricação
+Introduzir novas tecnologias que Simplifique, integre e modernize os processos de suporte
+
+Unifique e aumente o sistema ERP e modernize sistemas
+Forneça informações estratégicas com rapidez e precisão
+Reforçar as medidas de segurança na fábrica e na Governança
+Alinhar o foco da TI no BP gerando valor para os clientes
+
+Comitê de Melhoria de Suporte;
+Melhorias nos processos de TI;
+Priorização dos temas com base no valor para o negócio;
+Conhecer Topologia de Rede da HDA;
+
+	
+		
+O  - Equipe de Digital:
+	   - Existem problemas com Lnk MPLS de MAO (Muitos chamados);
+	   - Porque HSA tem DMZ e manaus não?
+	   - Leitura / Analise do material de arquitetura HSF;
+	   - Leitura / Analise do material de arquitetura do Capdo TI;
+
+Procedimento padrão com as funcoes e responsabilidades:
+	Ex: Quem faz o tunnig de produção, quem desenvolve isso aq ou aquilo ali, etc;
+	
+Garantir ambientes espelhados para garantir os testes em homologação mais proximos da produção 
+
+
+
+
+-----------------------------------------------------------------------------------
+# Principais Indicadores / KPIs de arquitetura:
+Sugestão: Dash de controle no pwbi;
+-----------------------------------------------------------------------------------
+- Qtd temas concluido (previsto vs concluido vs cancelado vs postergado);
+- Qtd temas em andamento (andamento -> atraso + prazo + adiantado);
+- Qtd temas em atraso ;
+- Qtd Realizadas de Arquiteturas de Projetos de Meta vs Qtd Total;
+- Participação em projetos de BP's/portfolio por areas;
+- Grafico de Burn Down;
+- Volume de Trabalho por Recurso/Arquiteto;
+- Lista de projetos na fila;
+- Projetos/Atividades em Backlog; (atual, ult mes, target, aumento ou diminuição);
+- Media de tempo de espera (0~30d~60d)
+- Projetos na Fila; 
+- Projetos por estado de workflow (status como emfila, em definição, em espera, em implementação, em validação)
+- Atividades abertas vs fechadas por meses dos ki (planejado vs realizado);
+- Media de dias esperando alocação;
+- No projetos por status do workflow hsdm(j0-j5)
+- Participação na distribuição dos projetos (estruturantes, meta da fabrica/bp, 100ki, 101ki, ou por sistemas (sgm, sisrelgen, painel da produção , etc))
+- Taxa de aceite / funcionamento das arquiteturas de projeto recomendadas vs qtd total;
+- % atividades completadas vs planajedas;
+
+- Devops KPI's:
+	- Dash geral de qualidade de codigo:
+		. Projetos no GitLab Vs Total de Projetos;
+		. Total de Builds executados durante o mes
+		. Indice de Builds realizadas com sucesso durante o mes;
+		. Indice de Builds realizadas com falha durante o mes;
+		. Projetos analisados pelo Sonar Qube;
+		. Projetos com Bugs criticos;
+		. Projetos com vulnerabilidades criticas ;
+		. Numeo de Bugs abertos; 
+		. Numero de Vulnerabilidades abertas;
+		. Code Smell por linha de codigo (abrir por sistema ou por pacote java);
+		Obs: Code Smell (cheiro de código) é qualquer característica no código-fonte de um programa que possivelmente indica um problema mais profundo.
+		. Erros ou problemas por projeto
+		. Erros ou problemas criados vs resolvidos por mes;
+
+- Gerenciamento de Cloud:
+	. Cloud Finops: Por mes apresentar o valor do custo por plataforma ou por projeto (dreamlake, azure, app, site, Dream lake Dev, Sales Plataform, Sedai, Chat Box, Pix)
+	. Top5 variações de custos com cloud: Conta/Produto Digital, Razão, contramedidas, resp, deadline
+	
+	. Custo Total;
+	. Custo com Principais Projetos extraido por conta aws (ex: BI, conect car, outros custos, custo prd, custo hml)
+	. Total de custo por grupo de conta (por mes do ki apresentar custos dos projetos em series empilhjadas)
+	. Pecentual de custo por grupo (saber quem tem o maio custo (bi, conect car, outros))
+
+- Gerenciamento do API Gw:
+	. % disponibilidade do serviço:
+	. % Servico error (indice de error por solicitação de servico): Target vs resultado, avaliação iam, rasão e plano de ação;
+	. Qtd solicitações realizadas por mes de um Ki (base o API manager)
+	. Top 5 ofensores: (nome do sistema ou do servico / qtd de solicitações)
+
+- Qtd de acerto de dados;	
+	
+- APIs:
+	. qtd ttl de APPI's por amb;
+	. Qtd de applicações
+	. Qtd ttl de chamadas a APIs por ambiente;
+	. Top 8 - prod./hml.
+		. Sucess Request;
+		. Error Request;
+	. Painel das principais APIs:
+
+-----------------------------------------------------------------------------------
+
